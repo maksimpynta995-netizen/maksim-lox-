@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\испро\испро\obj\Debug\netcoreapp3.1\испро.csprojAssemblyReference.cache
+C:\Users\user\source\repos\испро\испро\obj\Debug\netcoreapp3.1\испро.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\испро\испро\obj\Debug\netcoreapp3.1\испро.AssemblyInfo.cs
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.exe
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.deps.json
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.runtimeconfig.json
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.runtimeconfig.dev.json
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.dll
+C:\Users\user\source\repos\испро\испро\bin\Debug\netcoreapp3.1\испро.pdb
+C:\Users\user\source\repos\испро\испро\obj\Debug\netcoreapp3.1\испро.dll
+C:\Users\user\source\repos\испро\испро\obj\Debug\netcoreapp3.1\испро.pdb
